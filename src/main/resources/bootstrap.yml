@@ -1,0 +1,13 @@
+es:
+  ucm:
+    cap:
+      version: ${project.version}
+      title: Node
+      desciption: Node of the cluster to calculate.
+      
+server:
+  port: 7000
+
+spring:
+  application:
+    name: node
